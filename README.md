@@ -1,3 +1,5 @@
+> **ARCHIVED (D-831, 2026-11-03):** this template has been folded into [qompassai/js](https://github.com/qompassai/js/tree/main/template) — new projects start from there. This repo is kept read-only for history.
+
 <!-- qompassai/js-template/README.md -->
 <!-- Replace JavaScript, Template for Qompass AI JavaScript projects. and js when you instantiate this template. -->
 
